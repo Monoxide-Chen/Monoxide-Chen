@@ -2,6 +2,6 @@ I am Yiyang Chen (陈逸洋).
 
 BSc in Computer Science @ Tsinghua University.
 
-Harness @ Kimi (Moonshot AI).
+Harness [@Kimi](https://github.com/MoonshotAI).
 
-More about me: [monoxide-chen.github.io](https://monoxide-chen.github.io)
+More about me: [homepage](https://monoxide-chen.github.io).
